@@ -24,8 +24,8 @@ Pod::Spec.new do |spec|
 
   spec.swift_version = "5.0"
 
-spec.dependency 'Alamofire', '~> 5.2'
-spec.dependency 'SDWebImage', '~> 5.9'
+spec.dependency 'Alamofire'
+spec.dependency 'SDWebImage'
 
 end
 
